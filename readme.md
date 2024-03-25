@@ -1,8 +1,5 @@
 # WebGUI
-## Django based
-### Modular, for general purpose
-
-Given the complexity of the request and the word limit, a detailed and academic-like description will be structured in several sections to fit into a `README.md` file, ensuring clarity, depth, and ease of navigation for potential users or contributors. Here's a structured outline that we'll flesh out:
+### A Django based, general purpose web interface
 
 1. **Introduction**
 2. **System Overview**
@@ -62,4 +59,4 @@ WebGUI is released under a permissive open-source license, which is detailed in 
 
 ---
 
-This template aims to provide a comprehensive, academic-like overview of WebGUI for inclusion in a `README.md`
+<sub>Carefully and responsively crafted using ChatGPT 4 and other LLM models by [Tomas Catcher Tudja](mailto:tomas.tudja@h-dcs.com), sponsored by [h-dcs.com](https://h-dcs.com), released under MIT license.</sub>
